@@ -1,2 +1,5 @@
 # Ania-Kubow-Bootcamp
-Some of the exercises (or my ideas on them)
+Going through Ania's great bootcamp
+https://youtu.be/Xm4BObh4MhI
+
+Will add some of the exercises that I modified.
